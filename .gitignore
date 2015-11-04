@@ -1,0 +1,24 @@
+# Linux
+*.swp
+*.swo
+*.swn
+
+# Virtual environment
+/[Ii]nclude
+/[Ll]ib
+/Scripts
+/bin
+/local
+/man
+/share
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Pip
+pip-selfcheck.json
+*.whl
+
+# PiPy
+*.egg-info
